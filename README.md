@@ -1,3 +1,9 @@
-https://img.shields.io/badge/npm-v1.0.0-blue
 # tiny
-The tiniest npm module
+
+[![npm (scoped)}]
+(https://img.shields.io/npm/v/badge/@simonrevill/tiny.svg)]
+(https://github.com/simonrevill/tiny)
+[![npm bundle size (minified)]
+(https://img.shields.io/bundlephobia/min/@simonrevill/tiny.svg)]
+(https://github.com/simonrevill/tiny)
+The tiniest npm module!
