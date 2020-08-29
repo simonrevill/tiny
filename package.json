@@ -7,8 +7,9 @@
 	"main": "index.js",
 	"keywords": [
 		"tiny",
-	    "npm",
-	    "package",
-	    "simonrevill"
-  	]
+		"npm",
+		"package",
+		"simonrevill",
+		"example"
+	]
 }
